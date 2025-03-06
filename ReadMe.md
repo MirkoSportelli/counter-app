@@ -25,4 +25,6 @@ L'utente può **incrementare, decrementare e resettare** il valore del contatore
 
 ## 🚀 Come provare l'applicazione
 
-Puoi provare l'app direttamente qui 👉 [**Counter App Live**](https://mirkosportelli.github.io/counter-app/)  
+Puoi provare l'app direttamente qui 👉 [**Counter App Live**](https://mirkosportelli.github.io/counter-app/) 
+
+oppure [**Counter App su Netlify**] ( https://countermirko.netlify.app )
