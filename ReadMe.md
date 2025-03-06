@@ -25,10 +25,4 @@ L'utente può **incrementare, decrementare e resettare** il valore del contatore
 
 ## 🚀 Come provare l'applicazione
 
-Puoi provare l'app direttamente qui 👉 [**Counter App Live**](https://TUA_URL_DI_DEPLOY)  
-*(Sostituisci con il link della tua app se l'hai pubblicata online, ad esempio con GitHub Pages o Netlify)*  
-
-Oppure, per eseguire il codice in locale:
-1. **Clona il repository**:
-   ```bash
-   git clone https://github.com/TUO_USERNAME/counter-app.git
+Puoi provare l'app direttamente qui 👉 [**Counter App Live**](https://mirkosportelli.github.io/counter-app/)  
